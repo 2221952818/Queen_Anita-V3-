@@ -75,7 +75,7 @@ global.autobio = false;
 
 global.antilink = false;
 
-global.antilinkkick = false;
+global.antilinkkick = true;
 
 global.antilinkwarn = false;
 
